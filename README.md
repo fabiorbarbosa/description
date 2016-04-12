@@ -34,7 +34,7 @@ Microsoft Visual Studio 2015
 <br>IONIC Framework (noções)
 
 #Metodologia
-	SCRUM
+SCRUM
 
 #Idioma
 Leitura Técnica em Inglês
@@ -44,7 +44,7 @@ Sistemas Seguros - de dezembro/2001 a abril/2016 (Empresa de pequeno porte no se
 Atuava no desenvolvimento de novas funcionalidades e manutenções, e também em conjunto com os analistas de sistemas nas analises do ERP de controle de corretora de seguros.
  	 	 	 	 
 #Informações complementares
-<br>• C# Básico/Intermediário - Bras Figueiredo (janeiro/2009)
-<br>• ALM - Lambda3 (janeiro/2013)
-<br>• SCRUM (janeiro/2013)
-<br>• ASP.NET MVC 5 - Treinando.NET (julho/2015)
+<br>C# Básico/Intermediário - Bras Figueiredo (janeiro/2009)
+<br>ALM - Lambda3 (janeiro/2013)
+<br>SCRUM (janeiro/2013)
+<br>ASP.NET MVC 5 - Treinando.NET (julho/2015)
